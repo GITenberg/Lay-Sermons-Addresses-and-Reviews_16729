@@ -1,0 +1,38 @@
+_repo: Lay-Sermons-Addresses-and-Reviews_16729
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Huxley, Thomas Henry
+    alias: Huxley, T. H. (Thomas Henry)
+    birthdate: 1825
+    deathdate: 1895
+    gutenberg_agent_id: '595'
+    url: http://www.gutenberg.org/2009/agents/595
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Henry_Huxley
+description: ''
+gutenberg_issued: '2005-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16729'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science -- Philosophy'
+- !lcc 'Q'
+- !lcsh 'Science'
+- !lcsh 'Evolution (Biology)'
+tableOfContents: 'On the advisableness of improving natural knowledge -- Emancipation,
+  black and white -- A liberal education: and where to find it -- Scientific education:
+  notes of an after-dinner speech -- On the educational value of the natural history
+  sciences -- On the study of zoology -- On the physical basis of life -- The scientific
+  aspects of positivism -- On a piece of chalk -- Geological contemporaneity and persistent
+  types of life -- Geological reform -- The origin of species -- Criticisms on "The
+  origin of species" -- On Descartes'' "Discourse touching the method of using one''s
+  reason rightly and of seeking scientific truth".'
+title: Lay Sermons, Addresses and Reviews
+url: http://www.gutenberg.org/ebooks/16729
